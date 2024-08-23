@@ -1,4 +1,4 @@
-Employee Data Management
+**Employee Data Management (EDM)**
 
 This php reads data from data.csv and displays into interactive table using DataTable features. 
 
